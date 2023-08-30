@@ -15,5 +15,8 @@ return [
 
     "hello" => 'Welcome',
     "welcome" =>'اهلا و سهلا',
+    "offer name required" => 'Offer Name Requird',
+    "offer name must be uniqe" => 'Offer Name Should Be Uniqe',
+    "Add Your Offers" => 'Add Your Offers',
 
 ];

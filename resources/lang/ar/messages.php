@@ -15,5 +15,8 @@ return [
 
 "welcome" => 'yes',
 "welcome" =>'اهلا و سهلا',
+"offer name required" => 'اسم العرض مطلوب',
+"offer name must be uniqe" => 'اسم العرض يجب أن يكون فريد',
+"Add Your Offers" => 'قم بإضافة العرض',
 
 ];
